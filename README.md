@@ -5,8 +5,8 @@ I'm a passionate software developer with a love for coding and creating.
 #### Languages:
 ![Languages](https://skillicons.dev/icons?i=typescript,javascript,java,dart,html,css,scss)
 
-#### Frameworks:
-![Frameworks](https://skillicons.dev/icons?i=react,angular,nuxtjs,nextjs,pinia,redux,flutter,spring,nodejs)
+#### Frameworks/Library:
+![Frameworks](https://skillicons.dev/icons?i=react,angular,flutter,spring,nuxtjs,nextjs,nodejs,pinia,redux,reactivex)
 
 #### Tools:
 ![Tools](https://skillicons.dev/icons?i=git,github,gitlab,figma,gcp,mysql,mongodb)
