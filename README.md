@@ -1,15 +1,81 @@
-## 🪐 **My Universe**
-### 😃 Hi, I'm @punyawatdev
-I'm a passionate software developer with a love for coding and creating. 
+# ░▒▓ SYSTEM BOOT ▓▒░
 
-#### Languages:
-![Languages](https://skillicons.dev/icons?i=typescript,javascript,java,dart,html,css,scss)
+```
+> initializing developer profile...
+> loading identity...
+> access granted
+```
 
-#### Frameworks/Library:
-![Frameworks](https://skillicons.dev/icons?i=react,angular,flutter,spring,nuxtjs,nextjs,nodejs,pinia,redux,reactivex)
+```
+USER: punyawatdev
+ROLE: software engineer
+STATUS: building things on the internet
+LOCATION: somewhere in the network
+```
 
-#### Tools:
-![Tools](https://skillicons.dev/icons?i=git,github,gitlab,figma,gcp,mysql,mongodb)
+---
 
-#### Interested in learning:
-![Learning](https://skillicons.dev/icons?i=swift,kotlin,go,nestjs,redis,aws,docker,kafka,jenkins)
+# ░▒▓ SYSTEM STATUS ▓▒░
+
+```
+cpu_usage      ███████░░ 72%
+memory         ██████░░░ 61%
+coffee_level   █████████ 98%
+bugs_detected  ███░░░░░░ 12%
+focus_mode     ███████░░ 80%
+```
+
+---
+
+# ░▒▓ CORE MODULES ▓▒░
+
+```
+[ web ]        react / next.js
+[ backend ]    go
+[ mobile ]     flutter
+```
+
+---
+
+# ░▒▓ DATA SYSTEM ▓▒░
+
+```
+[ database ]   postgres
+[ cache ]      redis
+[ infra ]      docker / cloud
+```
+
+---
+
+# ░▒▓ ACTIVE PROCESSES ▓▒░
+
+```
+> building backend systems
+> designing scalable APIs
+> experimenting with mobile products
+> learning distributed architecture
+```
+
+---
+
+# ░▒▓ CURRENT SIGNAL ▓▒░
+
+```
+2026.03
+rebuilding my developer stack
+less tools
+more mastery
+```
+
+---
+
+# ░▒▓ NETWORK ▓▒░
+
+```
+if you are building something interesting
+open a connection.
+```
+
+```
+> end of transmission
+```
