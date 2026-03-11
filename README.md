@@ -13,8 +13,6 @@ STATUS: building things on the internet
 LOCATION: somewhere in the network
 ```
 
----
-
 # ░▒▓ SYSTEM STATUS ▓▒░
 
 ```
@@ -25,8 +23,6 @@ bugs_detected  ███░░░░░░ 12%
 focus_mode     ███████░░ 80%
 ```
 
----
-
 # ░▒▓ CORE MODULES ▓▒░
 
 ```
@@ -35,8 +31,6 @@ focus_mode     ███████░░ 80%
 [ mobile ]     flutter
 ```
 
----
-
 # ░▒▓ DATA SYSTEM ▓▒░
 
 ```
@@ -44,8 +38,6 @@ focus_mode     ███████░░ 80%
 [ cache ]      redis
 [ infra ]      docker / cloud
 ```
-
----
 
 # ░▒▓ ACTIVE PROCESSES ▓▒░
 
@@ -56,8 +48,6 @@ focus_mode     ███████░░ 80%
 > learning distributed architecture
 ```
 
----
-
 # ░▒▓ CURRENT SIGNAL ▓▒░
 
 ```
@@ -66,8 +56,6 @@ rebuilding my developer stack
 less tools
 more mastery
 ```
-
----
 
 # ░▒▓ NETWORK ▓▒░
 
