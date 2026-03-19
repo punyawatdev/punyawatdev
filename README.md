@@ -1,20 +1,14 @@
-# ░▒▓ SYSTEM BOOT ▓▒░
-
+### SYSTEM BOOT
 ```
 > initializing developer profile...
-> loading identity...
 > access granted
-```
 
-```
 USER: punyawatdev
 ROLE: software engineer
 STATUS: building things on the internet
-LOCATION: somewhere in the network
 ```
 
-# ░▒▓ SYSTEM STATUS ▓▒░
-
+### STATUS
 ```
 cpu_usage      ███████░░ 72%
 memory         ██████░░░ 61%
@@ -23,33 +17,28 @@ bugs_detected  ███░░░░░░ 12%
 focus_mode     ███████░░ 80%
 ```
 
-# ░▒▓ CORE MODULES ▓▒░
-
+### STACK
 ```
-[ web ]        react / next.js
-[ backend ]    go
-[ mobile ]     flutter
-```
-
-# ░▒▓ DATA SYSTEM ▓▒░
-
-```
-[ database ]   postgres
-[ cache ]      redis
-[ infra ]      docker / cloud
+web        → next.js
+backend    → go
+mobile     → flutter
 ```
 
-# ░▒▓ ACTIVE PROCESSES ▓▒░
+### DATA LAYER
+```
+db         → postgres
+cache      → redis
+infra      → docker / cloud
+```
 
+### CURRENT WORK
 ```
 > building backend systems
 > designing scalable APIs
-> experimenting with mobile products
-> learning distributed architecture
+> exploring distributed architecture
 ```
 
-# ░▒▓ CURRENT SIGNAL ▓▒░
-
+### SIGNAL
 ```
 2026.03
 rebuilding my developer stack
@@ -57,13 +46,10 @@ less tools
 more mastery
 ```
 
-# ░▒▓ NETWORK ▓▒░
-
+### NETWORK
 ```
 if you are building something interesting
 open a connection.
-```
 
-```
 > end of transmission
 ```
